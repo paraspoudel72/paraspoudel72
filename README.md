@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Paras Poudel</h1>
-<h3 align="center">A passionate Machine Learning enthusiast.</h3>
+<h1 align="center">Hi there👋, Nice to see you!</h1>
+<h3 align="center">Just a regular guy struggling to tune his weights and biases.</h3>
 
-
-- 🌱 I’m currently learning **LLM, RAG**
-- 📫 Want to colab? Reach me out in here**paraspoudel72@gmail.com** 
+---
+- 🌱 Currently learning: **LLM, RAG**
+- 📫 Want to talk about something? Idk ML, AI, Movies, Books, Cycling; just drop a text here: <a href = "mailto:paraspoudel72@gmail.com">Mail</a>
 
 
 <h3 align="left">You can find me here::</h3>
